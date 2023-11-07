@@ -126,6 +126,8 @@
 - Restart your computer and try running the project folder again
 
 
+
+
 If you have trouble installing Node.js and npm follow this link:
 
 	https://kinsta.com/knowledgebase/install-react/#windows-1
