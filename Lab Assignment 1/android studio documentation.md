@@ -1,7 +1,7 @@
 #### Lab Assignment 1: Spinning Up React Native App
 
 
-		## System Requirements: 
+		 System Requirements: 
 
 - Atleast 16GB of RAM
 - 250GB of disk space
@@ -9,7 +9,7 @@
 - Visual Studio Code 2022 (optional)
 
 
-		##  Installing Dependencies
+		 Installing Dependencies
 
 - You will need to install Node and the React Native command line interface
 
@@ -19,7 +19,7 @@
 
 - Now we'll install react in our system by typing " npm install -g create-react-app " in Windows PowerShell or a Command Line
 
-		##  Installation Instructions 
+		 Installation Instructions 
 
 - Once everything has been set up, we'll need to install Android Studio
 
@@ -27,7 +27,7 @@
 
 - Run the program and follow the instructions
 
-		##  Installing Tool Builds 
+		 Installing Tool Builds 
 
 - After installing Android studio, open the the app and click "More actions" button then click on "SDK Manager".
 
@@ -37,7 +37,7 @@
 
 - Hit Apply or OK to download.
 
-		##  Configuration Steps
+		 Configuration Steps
 
 - We'll configure the ANDROID_HOME environment table by accessing the Control Panel.
 
@@ -65,7 +65,7 @@
 
 - Click "New" and add the android sdk location but make sure to add " \platform-tools " at the end and hit OK.
 
-		##  Project Creation 
+		 Project Creation 
 
 - Open a folder where you want to save the AwesomeProject file
 
@@ -77,7 +77,7 @@
 
 - Wait for the download to finish then exit
 
-		## Running the Project using File Explorer Path 
+		 Running the Project using File Explorer Path 
 
 - Open the Project folder AwesomeProject
 
@@ -91,7 +91,7 @@
 
 - A mobile emulator window should pop up with the welcome message " Welcome to React Native " 
 
-		##  Running the Project using Visual Studio Code 2022 
+		 Running the Project using Visual Studio Code 2022 
 
 - Open Visual Studio Code
 
@@ -109,7 +109,7 @@
 
 
 
-		##  Trouble Shooting / Resources 
+		 Trouble Shooting / Resources 
 
 - Now we'll delete any JDK or Java paths within the System Variables if there are any
 
